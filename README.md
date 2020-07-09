@@ -1,1 +1,1 @@
-# BInary-PSO
+# Binary-PSO
